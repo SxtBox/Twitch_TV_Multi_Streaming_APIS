@@ -7,4 +7,5 @@ Twitch HLS Stream Extractor by Channel Name
     Kodi Regex
     Smart TV
     Xtream Codes
-    Raw
+    Raw Data
+    Clappr Player

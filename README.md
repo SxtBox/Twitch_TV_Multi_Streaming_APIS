@@ -1,2 +1,10 @@
-# Twitch_TV_Multi_Streaming_APIS
+# Twitch TV Multi Streaming APIS
 Twitch HLS Stream Extractor by Channel Name
+
+# Support Data
+    Json
+    Kodi M3U
+    Kodi Regex
+    Smart TV
+    Xtream Codes
+    Raw

@@ -9,4 +9,7 @@ Actual Version v2
     Smart TV
     Xtream Codes
     Raw Data
-    Clappr Player
+    Clappr Player PRO/Share/Embed
+    Clappr Player Simple Embed
+    JW Player Pro/Embed
+    JW Player Free/Embed
